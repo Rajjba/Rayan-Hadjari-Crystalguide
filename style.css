@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  height: 60vh;
+  width: 55%;
+  background-image: url(kristaller.jpg);
+}
+
+.title {
+  display: flex;
+  height: 100%;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  font-size: 2cm;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+}
+
+.kristallguide {
+  color: white;
+  margin-left: 5mm;
+  margin-right: 30em;
+}
+
+.topbuttons1 {
+  text-decoration: none;
+  color: white;
+}
+
+.topbuttons2 {
+  text-decoration: none;
+  color: white;
+  margin-right: 5mm;
+}
+
+.paragraph {
+  color: white;
+}
