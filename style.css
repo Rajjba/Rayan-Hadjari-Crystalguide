@@ -5,8 +5,12 @@
 
 .main {
   height: 60vh;
-  width: 55%;
   background-image: url(kristaller.jpg);
+  border: solid;
+  border-color: pink;
+  border-width: 50vh;
+  border-top: 5cm;
+  border-bottom: 5cm;
 }
 
 .title {
@@ -41,5 +45,5 @@
 }
 
 .paragraph {
-  color: white;
+  color: black;
 }
