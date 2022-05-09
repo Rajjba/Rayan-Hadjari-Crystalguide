@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  transition: all 500ms;
 }
 
 .main {
@@ -30,20 +31,83 @@
 .kristallguide {
   color: white;
   margin-left: 5mm;
-  margin-right: 30em;
+  margin-right: 22em;
+  margin-top: 5px;
+  font-size: 5mm;
 }
 
 .topbuttons1 {
   text-decoration: none;
   color: white;
+  margin-top: 5px;
+  font-size: 5mm;
+}
+
+.topbuttons1:hover {
+  color: pink;
+  border-bottom: solid;
 }
 
 .topbuttons2 {
   text-decoration: none;
   color: white;
   margin-right: 5mm;
+  margin-top: 5px;
+  font-size: 5mm;
+}
+
+.topbuttons2:hover {
+  color: pink;
+  border-bottom: solid;
 }
 
 .paragraph {
   color: black;
+  margin-left: 25%;
+  margin-right: 25%;
+  border: solid;
+  border-color: pink;
+  border-radius: 5mm;
+  border-width: 1mm;
+  padding: 2em;
+  margin-top: 2cm;
+}
+
+img{
+  margin-top: 2cm;
+  margin-left: 40%;
+  margin-right: 40%;
+}
+
+.rosenkvarts{
+  margin-left: 25%;
+  margin-right: 25%;
+  border: solid;
+  border-color: pink;
+  border-radius: 5mm;
+  border-width: 1mm;
+  padding: 2em;
+  margin-top: 2cm;
+}
+
+.ametist{
+  margin-left: 25%;
+  margin-right: 25%;
+  border: solid;
+  border-color: pink;
+  border-radius: 5mm;
+  border-width: 1mm;
+  padding: 2em;
+  margin-top: 2cm;
+}
+
+.citrine{
+  margin-left: 25%;
+  margin-right: 25%;
+  border: solid;
+  border-color: pink;
+  border-radius: 5mm;
+  border-width: 1mm;
+  padding: 2em;
+  margin-top: 2cm;
 }
